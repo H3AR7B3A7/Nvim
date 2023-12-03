@@ -1,7 +1,18 @@
-# h3ar7b3a7's init.lua
-Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep).
+# H3AR7B3A7's init.lua
+
+_Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)._
+
+```
+choco install ripgrep
+```
 
 [The full video of ThePrimeagen setting up this repo](https://www.youtube.com/watch?v=w7i4amO_zaE)
+
+## Install Nvim
+
+```
+choco install neovim --version=0.9.0
+```
 
 ## Nvim install dir
 
@@ -15,13 +26,17 @@ C:\Users\Admin\AppData\Local\nvim
 
 ## Packer
 
-https://github.com/wbthomason/packer.Nvim
+[Packer Repo](https://github.com/wbthomason/packer.Nvim)
 
-> git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
+```
+git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
+```
 
 ### Run Packer
 
-> :PackerSync
+```
+:PackerSync
+```
 
 ---
 &copy; H3AR7B3A7, December 2023
