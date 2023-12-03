@@ -16,13 +16,17 @@ choco install neovim --version=0.9.0
 
 ## Nvim install dir
 
+```
 C:\tools\neovim\nvim-win64\bin
+```
 
 _Copy the nvim.exe, and call it vim.exe._
 
 ## Nvim settings files location
 
+```
 C:\Users\Admin\AppData\Local\nvim
+```
 
 ## Packer
 
