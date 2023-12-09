@@ -1,12 +1,25 @@
 # H3AR7B3A7's init.lua
 
-_Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)._
+[The full video of ThePrimeagen setting up this repo](https://www.youtube.com/watch?v=w7i4amO_zaE)
+
+## Prerequisites
+
+### RipGrep
 
 ```
 choco install ripgrep
 ```
 
-[The full video of ThePrimeagen setting up this repo](https://www.youtube.com/watch?v=w7i4amO_zaE)
+### Home Env Var
+
+Ensure you have a HOME environment variable set to your user directory.
+
+> C:\Users\Admin
+
+### Install C compiler
+
+https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/
+
 
 ## Install Nvim
 
