@@ -55,6 +55,20 @@ git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data
 :PackerSync
 ```
 
+## Shortcuts
+
+_Leader key = " "_
+
+### Nvim
+
+<kbd>Leader</kbd> + pv = vim.cmd.Ex
+
+### Harpoon
+
+<kbd>Leader</kbd> + a = append
+
+<kbd>Ctrl</kbd> + e = list
+
 ---
 &copy; H3AR7B3A7, December 2023
 
