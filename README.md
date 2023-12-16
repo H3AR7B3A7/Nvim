@@ -63,6 +63,8 @@ _Leader key = " "_
 
 <kbd>Leader</kbd> + pv = vim.cmd.Ex
 
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + p = fuzzy find file
+
 ### Harpoon
 
 <kbd>Leader</kbd> + a = append
